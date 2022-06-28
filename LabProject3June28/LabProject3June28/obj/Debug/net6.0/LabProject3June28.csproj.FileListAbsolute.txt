@@ -1,0 +1,15 @@
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\bin\Debug\net6.0\LabProject3June28.exe
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\bin\Debug\net6.0\LabProject3June28.deps.json
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\bin\Debug\net6.0\LabProject3June28.runtimeconfig.json
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\bin\Debug\net6.0\LabProject3June28.dll
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\bin\Debug\net6.0\LabProject3June28.pdb
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\LabProject3June28.csproj.AssemblyReference.cache
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\LabProject3June28.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\LabProject3June28.AssemblyInfoInputs.cache
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\LabProject3June28.AssemblyInfo.cs
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\LabProject3June28.csproj.CoreCompileInputs.cache
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\LabProject3June28.dll
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\refint\LabProject3June28.dll
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\LabProject3June28.pdb
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\LabProject3June28.genruntimeconfig.cache
+C:\Users\USER\Documents\Csharp Assignment3\LabProject3June28\LabProject3June28\obj\Debug\net6.0\ref\LabProject3June28.dll
